@@ -2,7 +2,8 @@
 
 ### Example Screenshot
 ![image](https://github.com/gentabelardi/quote-nextjs/assets/78941367/7cf53ff4-c3b0-47a2-a404-e54a118c75ae)
-![image](https://github.com/gentabelardi/quote-nextjs/assets/78941367/5f100ad1-f78e-442b-b0b3-f92e7b578448)
+![image](https://github.com/gentabelardi/quote-nextjs/assets/78941367/f298c18b-31ca-4639-9de7-5c7c5e0450ec)
+
 
 
 ### Getting Started
